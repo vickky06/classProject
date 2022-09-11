@@ -27,7 +27,7 @@ const TICKETS = class {
         return this;
     }
     changeTitle = (title) => {
-        this.staus = staus
+        this.title = title
         return this;
     }
     changeDescription = (descrip) => {
